@@ -1,4 +1,6 @@
-# testsub
+# WordPair Generator
+
+WordPair Generator is an innovative word pair generator app developed using the Flutter framework. It offers a seamless user experience, allowing you to generate random word pairs, save your favorite ones, and have endless fun exploring new word combinations.
 
 A new Flutter project.
 
